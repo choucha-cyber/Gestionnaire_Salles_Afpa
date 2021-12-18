@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\IKRA\AFPA\PROJETS_Mandatory\GestionSalles\Djamel\CodeSource\progProject\.metadata\.plugins\org.eclipse.jdt.core
+2173436344.index
+2864340646.index
+4179420260.index

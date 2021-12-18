@@ -1,0 +1,5 @@
+# Modèle créé le : Mon Dec 13 16:57:23 CET 2021 
+FORMATION (idFormation_FORMATION, nonFormation_FORMATION, dureeFormation_FORMATION, dateDebutFormation_FORMATION, dateFinFormation_Enseigne, #idFormateur_FORMATEUR) 
+FORMATEUR (idFormateur_FORMATEUR, nom_FORMATEUR, prenom_FORMATEUR) 
+SALLE (idSalle_SALLE, numSalle_SALLE, localisationSalle_SALLE, disponibible_SALLE, #formation_idformation_formation) 
+MATIERE (idMatiere_MATIERE, nomMatiere_MATIERE, #idFormateur_FORMATEUR) 

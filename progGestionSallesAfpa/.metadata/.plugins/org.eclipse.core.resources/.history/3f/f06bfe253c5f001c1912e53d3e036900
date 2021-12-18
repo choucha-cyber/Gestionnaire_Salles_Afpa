@@ -1,0 +1,8 @@
+package Application;
+
+public class Global {
+	
+	private String appName = "AFPA - Gestion des salles de formation";
+	
+
+}

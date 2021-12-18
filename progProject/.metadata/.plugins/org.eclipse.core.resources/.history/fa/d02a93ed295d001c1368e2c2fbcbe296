@@ -1,0 +1,14 @@
+package Model;
+
+public class Identification {
+	private String nomCreation;
+	private String prenomCreation;
+	private String emailCreation;
+	private String passwordCreation;
+	private String statut;
+	private String emailLogin;
+	private String passwordLogin;
+	private int id;
+
+
+}

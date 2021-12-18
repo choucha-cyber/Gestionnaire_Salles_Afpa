@@ -1,0 +1,31 @@
+package Model;
+
+
+import java.util.Date;
+public class Calendrier {
+	
+	private int id;
+	private date dateCalendrier;
+	
+	public int getId() {
+		return id;
+	}
+	public void setId(int id) {
+		this.id = id;
+	}
+	public date getDateCalendrier() {
+		return dateCalendrier;
+	}
+	public void setDateCalendrier(date dateCalendrier) {
+		this.dateCalendrier = dateCalendrier;
+	}
+	
+	public Calendrier(int id, date dateCalendrier) {
+		super();
+		this.id = id;
+		this.dateCalendrier = dateCalendrier;
+	}
+	
+	
+
+}

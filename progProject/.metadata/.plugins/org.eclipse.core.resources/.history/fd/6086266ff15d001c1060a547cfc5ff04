@@ -1,0 +1,13 @@
+package Controller;
+
+
+
+import java.net.InetAddress;
+import java.net.UnknownHostException;
+
+public class Network {
+	
+	private static String nomHote ;
+	private static String adresseIPLocale ;
+
+}

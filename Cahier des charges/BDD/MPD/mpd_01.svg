@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="62 73 813 283" width="751px" height="210px" xmlns="http://www.w3.org/2000/svg" version="1.1">
+   <rect width="78" height="20" x="352" y="92" style="fill:#007;stroke:black;"/>
+   <text width="78" height="20" x="357" y="106" style="fill:#fff;" font-family="Arial" font-size="16px"> calendrier</text>
+   <rect width="78" height="20" x="352" y="112" style="fill:#aea;stroke:black;"/>
+   <text width="78" height="20" x="357" y="126" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="78" height="20" x="352" y="132" style="fill:none;stroke:black;"/>
+   <text width="78" height="20" x="357" y="146" style="fill:black;" font-family="Arial" font-size="16px">calendar</text>
+   <rect width="140" height="20" x="77" y="88" style="fill:#007;stroke:black;"/>
+   <text width="140" height="20" x="82" y="102" style="fill:#fff;" font-family="Arial" font-size="16px"> identification</text>
+   <rect width="140" height="20" x="77" y="108" style="fill:#aea;stroke:black;"/>
+   <text width="140" height="20" x="82" y="122" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="140" height="20" x="77" y="128" style="fill:none;stroke:black;"/>
+   <text width="140" height="20" x="82" y="142" style="fill:black;" font-family="Arial" font-size="16px">nomCreation</text>
+   <rect width="140" height="20" x="77" y="148" style="fill:none;stroke:black;"/>
+   <text width="140" height="20" x="82" y="162" style="fill:black;" font-family="Arial" font-size="16px">prenomCreation</text>
+   <rect width="140" height="20" x="77" y="168" style="fill:none;stroke:black;"/>
+   <text width="140" height="20" x="82" y="182" style="fill:black;" font-family="Arial" font-size="16px">emailCreation</text>
+   <rect width="140" height="20" x="77" y="188" style="fill:none;stroke:black;"/>
+   <text width="140" height="20" x="82" y="202" style="fill:black;" font-family="Arial" font-size="16px">passwordCreation</text>
+   <rect width="140" height="20" x="77" y="208" style="fill:none;stroke:black;"/>
+   <text width="140" height="20" x="82" y="222" style="fill:black;" font-family="Arial" font-size="16px">statut</text>
+   <rect width="140" height="20" x="77" y="228" style="fill:none;stroke:black;"/>
+   <text width="140" height="20" x="82" y="242" style="fill:black;" font-family="Arial" font-size="16px">emailLogin</text>
+   <rect width="140" height="20" x="77" y="248" style="fill:none;stroke:black;"/>
+   <text width="140" height="20" x="82" y="262" style="fill:black;" font-family="Arial" font-size="16px">passwordLogin</text>
+   <rect width="94" height="20" x="562" y="91" style="fill:#007;stroke:black;"/>
+   <text width="94" height="20" x="567" y="105" style="fill:#fff;" font-family="Arial" font-size="16px"> planning</text>
+   <rect width="94" height="20" x="562" y="111" style="fill:#aea;stroke:black;"/>
+   <text width="94" height="20" x="567" y="125" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="94" height="20" x="562" y="131" style="fill:none;stroke:black;"/>
+   <text width="94" height="20" x="567" y="145" style="fill:black;" font-family="Arial" font-size="16px">calendar</text>
+   <rect width="94" height="20" x="562" y="151" style="fill:none;stroke:black;"/>
+   <text width="94" height="20" x="567" y="165" style="fill:black;" font-family="Arial" font-size="16px">disponibilite</text>
+   <rect width="50" height="20" x="748" y="90" style="fill:#007;stroke:black;"/>
+   <text width="50" height="20" x="753" y="104" style="fill:#fff;" font-family="Arial" font-size="16px"> salle</text>
+   <rect width="50" height="20" x="748" y="110" style="fill:#aea;stroke:black;"/>
+   <text width="50" height="20" x="753" y="124" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="50" height="20" x="748" y="130" style="fill:none;stroke:black;"/>
+   <text width="50" height="20" x="753" y="144" style="fill:black;" font-family="Arial" font-size="16px">etage</text>
+   <rect width="50" height="20" x="748" y="150" style="fill:none;stroke:black;"/>
+   <text width="50" height="20" x="753" y="164" style="fill:black;" font-family="Arial" font-size="16px">salle</text>
+</svg>

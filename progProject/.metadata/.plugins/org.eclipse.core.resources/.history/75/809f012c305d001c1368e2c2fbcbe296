@@ -1,0 +1,45 @@
+package View;
+
+import javax.swing.JFrame;
+import javax.swing.JPanel;
+import java.awt.BorderLayout;
+import java.awt.Color;
+import javax.swing.JLabel;
+import java.awt.Font;
+import javax.swing.JTextField;
+
+public class Authentification extends JFrame {
+	private JTextField txtMail;
+	public Authentification() {
+		
+		JPanel panel = new JPanel();
+		panel.setBackground(Color.ORANGE);
+		getContentPane().add(panel, BorderLayout.CENTER);
+		panel.setLayout(null);
+		
+		JLabel lblEmail = new JLabel("Email");
+		lblEmail.setFont(new Font("Tahoma", Font.PLAIN, 16));
+		lblEmail.setBounds(42, 117, 77, 14);
+		panel.add(lblEmail);
+		
+		JLabel lblTitle = new JLabel("Connexion \u00E0 la base de donn\u00E9es");
+		lblTitle.setBounds(93, 5, 297, 24);
+		lblTitle.setFont(new Font("Arial", Font.PLAIN, 20));
+		panel.add(lblTitle);
+		
+		JLabel lblPwd = new JLabel("Mot de passe");
+		lblPwd.setFont(new Font("Tahoma", Font.PLAIN, 14));
+		lblPwd.setBounds(42, 168, 104, 14);
+		panel.add(lblPwd);
+		
+		txtMail = new JTextField();
+		txtMail.setBounds(189, 116, 86, 20);
+		panel.add(txtMail);
+		txtMail.setColumns(10);
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+}

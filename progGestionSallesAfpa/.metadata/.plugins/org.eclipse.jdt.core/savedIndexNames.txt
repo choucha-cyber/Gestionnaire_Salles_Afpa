@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Djamel\AFPA\PROJETS\Local_afpaProject_1\progGestionSallesAfpa\.metadata\.plugins\org.eclipse.jdt.core
+2173436344.index
+2216258652.index
+197751850.index

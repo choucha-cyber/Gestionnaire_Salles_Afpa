@@ -1,0 +1,38 @@
+package Controller;
+
+
+
+import java.net.InetAddress;
+import java.net.UnknownHostException;
+
+public class Network {
+	
+	private  String nomHote ;
+	private  String adresseIPLocale ;
+	private static InetAddress ip ;
+	
+	
+	public String getNomHote() {
+		return nomHote;
+	}
+	public void setNomHote(String nomHote) {
+		this.nomHote = nomHote;
+	}
+	public String getAdresseIPLocale() {
+		return adresseIPLocale;
+	}
+	public void setAdresseIPLocale(String adresseIPLocale) {
+		this.adresseIPLocale = adresseIPLocale;
+	}
+	
+	
+	public Network(String nomHote, String adresseIPLocale) {
+		super();
+		this.nomHote = nomHote;
+		this.adresseIPLocale = adresseIPLocale;
+	}
+	
+	
+	
+
+}
